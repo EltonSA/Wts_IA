@@ -1,0 +1,42 @@
+2024/04/09-07:11:59.278 51b0 Reusing MANIFEST D:\Users\Elton\Desktop\teste\tokens\chatGPT_BOT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/09-07:11:59.278 51b0 Recovering log #753
+2024/04/09-07:11:59.321 51b0 Reusing old log D:\Users\Elton\Desktop\teste\tokens\chatGPT_BOT\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000753.log 
+2024/04/09-07:11:59.321 51b0 Delete type=2 #752
+2024/04/09-07:11:59.321 51b0 Delete type=2 #754
+2024/04/09-07:12:10.860 5700 Level-0 table #758: started
+2024/04/09-07:12:10.956 5700 Level-0 table #758: 384786 bytes OK
+2024/04/09-07:12:10.985 5700 Delete type=0 #753
+2024/04/09-07:12:10.986 4fbc Manual compaction at level-0 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/09-07:12:10.987 4fbc Manual compaction at level-1 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at '\x009\x00\x00\x05' @ 1837986 : 1
+2024/04/09-07:12:10.987 4fbc Compacting 1@1 + 1@2 files
+2024/04/09-07:12:11.178 4fbc Generated table #759@1: 62711 keys, 2224256 bytes
+2024/04/09-07:12:11.215 4fbc Generated table #760@1: 1035 keys, 18053 bytes
+2024/04/09-07:12:11.216 4fbc Compacted 1@1 + 1@2 files => 2242309 bytes
+2024/04/09-07:12:11.238 4fbc compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/04/09-07:12:11.239 4fbc Delete type=2 #758
+2024/04/09-07:12:11.239 5700 Manual compaction at level-1 from '\x009\x00\x00\x05' @ 1837986 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/09-07:12:11.243 4fbc Level-0 table #762: started
+2024/04/09-07:12:11.298 4fbc Level-0 table #762: 436 bytes OK
+2024/04/09-07:12:11.323 4fbc Delete type=2 #755
+2024/04/09-07:12:11.323 4fbc Delete type=0 #757
+2024/04/09-07:12:11.324 4fbc Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/09-07:12:11.325 4fbc Manual compaction at level-1 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at '\x009\x00\x00\x05' @ 1838019 : 0
+2024/04/09-07:12:11.325 4fbc Compacting 1@1 + 1@2 files
+2024/04/09-07:12:11.494 4fbc Generated table #763@1: 62708 keys, 2224204 bytes
+2024/04/09-07:12:11.494 4fbc Compacted 1@1 + 1@2 files => 2224204 bytes
+2024/04/09-07:12:11.519 4fbc compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/04/09-07:12:11.521 4fbc Delete type=2 #762
+2024/04/09-07:12:11.521 4fbc Manual compaction at level-1 from '\x009\x00\x00\x05' @ 1838019 : 0 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/09-07:17:15.067 5700 Level-0 table #765: started
+2024/04/09-07:17:15.121 5700 Level-0 table #765: 160413 bytes OK
+2024/04/09-07:17:15.155 5700 Delete type=2 #759
+2024/04/09-07:17:15.155 5700 Delete type=0 #761
+2024/04/09-07:17:15.157 4fbc Manual compaction at level-0 from '\x00;\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00<\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/09-07:17:15.157 4fbc Manual compaction at level-1 from '\x00;\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00<\x00\x00\x00' @ 0 : 0; will stop at '\x00;\x00\x00\x05' @ 1845081 : 1
+2024/04/09-07:17:15.158 4fbc Compacting 1@1 + 1@2 files
+2024/04/09-07:17:15.282 4fbc Generated table #766@1: 63593 keys, 2224730 bytes
+2024/04/09-07:17:15.317 4fbc Generated table #767@1: 639 keys, 50774 bytes
+2024/04/09-07:17:15.317 4fbc Compacted 1@1 + 1@2 files => 2275504 bytes
+2024/04/09-07:17:15.341 4fbc compacted to: files[ 0 0 3 0 0 0 0 ]
+2024/04/09-07:17:15.341 4fbc Delete type=2 #765
+2024/04/09-07:17:15.342 4fbc Manual compaction at level-1 from '\x00;\x00\x00\x05' @ 1845081 : 1 .. '\x00<\x00\x00\x00' @ 0 : 0; will stop at (end)

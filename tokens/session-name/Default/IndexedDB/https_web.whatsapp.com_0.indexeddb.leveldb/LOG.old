@@ -1,0 +1,11 @@
+2024/04/03-13:05:09.649 43b0 Reusing MANIFEST D:\Users\Elton\Desktop\teste\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/03-13:05:09.649 43b0 Recovering log #68
+2024/04/03-13:05:09.732 43b0 Reusing old log D:\Users\Elton\Desktop\teste\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000068.log 
+2024/04/03-13:05:14.074 389c Level-0 table #74: started
+2024/04/03-13:05:14.164 389c Level-0 table #74: 681770 bytes OK
+2024/04/03-13:05:14.195 389c Delete type=0 #68
+2024/04/03-13:05:14.204 43b0 Manual compaction at level-0 from '\x00$\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00%\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/03-13:05:16.800 43b0 Compacting 1@1 + 1@2 files
+2024/04/03-13:05:16.915 43b0 Generated table #75@1: 20254 keys, 811769 bytes
+2024/04/03-13:05:16.915 43b0 Compacted 1@1 + 1@2 files => 811769 bytes
+2024/04/03-13:05:16.948 43b0 compacted to: files[ 0 0 1 0 0 0 0 ]
